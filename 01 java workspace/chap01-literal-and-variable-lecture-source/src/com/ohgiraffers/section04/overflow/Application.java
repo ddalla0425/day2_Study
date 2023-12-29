@@ -1,4 +1,4 @@
-package com.ohgiraffers.section04.overflow;
+package src.com.ohgiraffers.section04.overflow;
 
 public class Application {
     public static void main(String[] args) {

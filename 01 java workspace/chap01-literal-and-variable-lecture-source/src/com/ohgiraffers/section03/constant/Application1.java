@@ -1,4 +1,4 @@
-package com.ohgiraffers.section03.constant;
+package src.com.ohgiraffers.section03.constant;
 
 public class Application1 {
     public static void main(String[] args) {

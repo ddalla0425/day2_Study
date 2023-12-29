@@ -1,4 +1,4 @@
-package com.ohgiraffers.section03.constant;
+package src.com.ohgiraffers.section03.constant;
 
 public class Application2 {
     public static void main(String[] args) {
@@ -12,5 +12,7 @@ public class Application2 {
         //2 단어와 단어의 연결은 언더스코어로 작성한다.
         final int MAX_AGE = 60;
         final int MIN_AGE = 20;
+
+        System.out.println(AGE1 + "," + AGE2 + "," + AGE3 + "," + MAX_AGE + "," + MIN_AGE);
     }
 }
