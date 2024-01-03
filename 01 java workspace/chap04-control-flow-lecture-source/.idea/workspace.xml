@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d242191c-1c65-4f67-8c4c-2faaae806cf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-lecture-source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/A_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/B_ifElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/C_ifElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/D_switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/level01/basic/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/level01/basic/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/level02/normal/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/level02/normal/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/level03/hard/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/level03/hard/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/level04/advanced/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/conditional/level04/advanced/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section02/looping/A_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section02/looping/A_nestedFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section02/looping/Application.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2aQIUgA52GnJqZ4bE7rSllhWJ5X" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.Application1.executor": "Run",
+    "Application.Application2.executor": "Run",
+    "Application.com.ohgiraffers.section02.Application.executor": "Run",
+    "Application.com.ohgiraffers.section02.looping.Application.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "actions.on.save"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.conditional.Application" />
+      <module name="chap04-control-flow-lecture-source" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section01.conditional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ohgiraffers.section02.looping.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.looping.Application" />
+      <module name="chap04-control-flow-lecture-source" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section02.looping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.ohgiraffers.section02.looping.Application" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d242191c-1c65-4f67-8c4c-2faaae806cf0" name="Changes" comment="" />
+      <created>1704244392913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704244392913</updated>
+    </task>
+    <servers />
+  </component>
+</project>
