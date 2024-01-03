@@ -13,7 +13,7 @@ public class Application {
         //c.testNestedIfElseStatement();
         //c.improveNestedIfElseStatement();
         D_switch d = new D_switch();
-        //d.testSimpleSwitchStatement();
+        d.testSimpleSwitchStatement();
         d.testSwitchVendingMachine();
     }
 }
