@@ -13,9 +13,20 @@ public class Application {
 //        a.testForExample4();
 //        a.printSimpleGugudan();
 
-        A_nestedFor a2 = new A_nestedFor();
-        a2.printGuGudanFromTwoToNine();
-        a2.printStarInputRowTimes();
-        a2.printTriangleStars();
+//        A_nestedFor a2 = new A_nestedFor();
+//        a2.printGuGudanFromTwoToNine();
+//        a2.printStarInputRowTimes();
+//        a2.printTriangleStars();
+
+//        B_while b = new B_while();
+//        b.testSimpleWhileStatement();
+//        b.testWhileExample1();
+//        b.testWileExample2();
+//        b.testWhileExample3();
+
+        C_doWhile c = new C_doWhile();
+        c.testSimpleDoWhileStantment();
+        c.testDoWhileExample();
     }
+
 }
