@@ -8,7 +8,7 @@ public class Application5 {
 
         //배열 인텍스 범위의 난수 발생 시키기
         int randomShapeIndex = (int)(Math.random() * shapes.length);
-        int randomCardNumberIndex = (int)(Math.random() * shapes.length);
+        int randomCardNumberIndex = (int)(Math.random() * cardNumbers.length);
         System.out.println("당신이 뽑은 카드는 " + shapes[randomShapeIndex] +" " + cardNumbers[randomCardNumberIndex] + " 카드 입니다.");
     }
 

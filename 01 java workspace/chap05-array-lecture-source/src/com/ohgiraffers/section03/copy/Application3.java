@@ -18,10 +18,10 @@ public class Application3 {
         for(int i = 0; i < originArr.length; i++) {
             copyArr1[i] = originArr[i];
         }
-
         print(copyArr1);
 
-        //region 2.Object의 clone()을 이용한 복사
+        //region
+        //2.Object의 clone()을 이용한 복사
         //동일한 길이, 동일한 값을 가지는 배열이 생성 되어 복사 되며, 다른 주소를 가지고 있다.
         int[] copyArr2 = originArr.clone();
 
@@ -31,7 +31,7 @@ public class Application3 {
         //3.System의 arraycopy()를 이용한 복사
         int[] copyArr3 = new int[10];
 
-        //원본 배열, (원본에서)복사를 시작할 인덱스, 복사본 배열, (복사본에서)복사를 시작할 인덱스, 복사할 길이를 인자로 전달한다.
+        //원본 배열, (원본에서)복사를 시작할 인덱스, 복사본 배열, (복사본에서)복사를 시작할 인덱스, 복사할 길이(총 몇개를 복사할것이냐)를 인자로 전달한다.
         System.arraycopy(originArr,0,copyArr3,3,originArr.length); //system이라는 클래스에 있는 스테틱 매소드
 
         print(copyArr3);

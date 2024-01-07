@@ -9,7 +9,7 @@ public class Application4 {
         int[] arr1 = {1,2,3,4,5};
         int[] arr2 = arr1.clone();
 
-        //기존 for문을 이용해 인덱시으 값을 10씩 누적 증가
+        //기존 for문을 이용해 인덱스 값을 10씩 누적 증가
         for (int i=0; i< arr1.length; i++) {
             arr1[i] += 10;
         }
@@ -20,7 +20,8 @@ public class Application4 {
 
         //향상된 for문 : jdk 1.5 버전부터 추가 된 문법
         //배열 인덱스에 차례로 접근해서 심시로 사용할 변수에 값을 담고 반복문을 실행한다.
-        for(int i : arr2) {
+        //for(int i : arr2) { //:의오른쪽엔 이 반복문에서 반복하고자 하는배열의 레퍼런스 변수명을 쓴다. arr2라는 배열을 반복문에서 반복할거다.
+        for(int i : arr2) { //:의왼쪽엔 그 배열의 인덱스의 차례로 접근했을때 가지는 데이타 타입으로. 임시변수를 하나 선언하세요
             i += 10;
         }
 

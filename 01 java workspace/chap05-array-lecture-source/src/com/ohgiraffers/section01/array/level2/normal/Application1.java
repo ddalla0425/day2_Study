@@ -1,5 +1,7 @@
 package com.ohgiraffers.section01.array.level2.normal;
 
+import java.util.Scanner;
+
 public class Application1 {
     public static void main(String[] args) {
         /*
@@ -16,5 +18,22 @@ public class Application1 {
          * -- 출력 예시 --
          * 입력하신 문자열 helloworld에서 찾으시는 문자 l은 3개 입니다.
          */
+        System.out.print("문자열을 하나 입력하세요 : ");
+        Scanner sc = new Scanner(System.in);
+        String str = sc.nextLine();
+
+        char[] arr = str.toCharArray();
+        System.out.print("검색할 문자를 입력하세요 : ");
+        char ch = sc.next().charAt(0);
+        int count = 0;
+        for(int i=0; i<arr.length; i++) {
+            if(arr[i] == ch) {
+                count++;
+            }
+        }
+        System.out.println("입력하신 문자열 " + str + "에서 찾으시는 문자 " + ch + "은 " + count + "개 입니다.");
+
+
+
     }
 }
