@@ -26,7 +26,7 @@ public class Application1 {
         System.out.print("홀수인 양의 정수를 입력하세요 : ");
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
-        if(num % 2 == 0) {
+        if(num % 2 == 0 ) {
             System.out.println("양수 혹은 홀수만 입력해야 합니다.");
         }else{
             int[] arr = new int[num];

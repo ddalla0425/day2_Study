@@ -19,7 +19,7 @@ public class Application2 {
 
         char[] arr = str.toCharArray();
 
-        String sumStr = "";
+        //String sumStr = "";
         for(int i=0; i<arr.length; i++){
             if(i > 7) {
                 arr[i] = '*';
