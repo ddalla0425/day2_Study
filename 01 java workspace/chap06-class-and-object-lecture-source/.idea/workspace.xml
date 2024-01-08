@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e78349f-a236-4e6e-94ab-726fd344d215" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06-class-and-object-lecture-source.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section01/user_type/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section01/user_type/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section02/encapsulation/problem1/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section02/encapsulation/problem1/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section02/encapsulation/problem2/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section02/encapsulation/problem2/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section02/encapsulation/problem3/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section02/encapsulation/problem3/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section02/encapsulation/problem4/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section02/encapsulation/problem4/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section03/abstraction/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section03/abstraction/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ogiraffers/section03/abstraction/CarRacer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05-array-lecture-source/src/com/ohgiraffers/section01/array/level2/normal/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05-array-lecture-source/src/com/ohgiraffers/section01/array/level2/normal/Application2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05-array-lecture-source/src/com/ohgiraffers/section04/sort/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/com/ohgiraffers/section04/sort/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05-array-lecture-source/src/com/ohgiraffers/section04/sort/Application6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/com/ohgiraffers/section04/sort/Application6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2aee7aIWf7s5zh4VTgsEGOvngUI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -60,6 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/lecture/01 java workspace/chap05-array-lecture-source",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"

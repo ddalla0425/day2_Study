@@ -22,7 +22,7 @@ public class Application2 {
                 //오름차순 정렬을 위한 처리
                 //내림차순은 부등호만 반대로 처리하면 된다.
                 if(iarr[i] > iarr[j]) {
-                    int temp = iarr[i];
+                    int temp = iarr[i]; //두 변수의 값을 바꾸기 위해서는 다른 변수가 하나 더 필요하다.
                     iarr[i] = iarr[j];
                     iarr[j] = temp;
                 }

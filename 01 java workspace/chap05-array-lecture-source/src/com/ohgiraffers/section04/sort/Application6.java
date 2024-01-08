@@ -20,7 +20,7 @@ public class Application6 {
 
             }
         }
-        System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr)); //배열내용 출력 함수
 
 
 

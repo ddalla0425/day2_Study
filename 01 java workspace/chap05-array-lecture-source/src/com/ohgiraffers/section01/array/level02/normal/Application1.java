@@ -1,4 +1,4 @@
-package com.ohgiraffers.section01.array.level2.normal;
+package com.ohgiraffers.section01.array.level02.normal;
 
 import java.util.Scanner;
 
