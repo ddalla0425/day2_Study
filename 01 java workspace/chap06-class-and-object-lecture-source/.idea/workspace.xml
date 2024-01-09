@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e78349f-a236-4e6e-94ab-726fd344d215" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../chap05-array-lecture-source/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="2e78349f-a236-4e6e-94ab-726fd344d215" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -34,6 +35,7 @@
   "keyToString": {
     "Application.Application.executor": "Run",
     "Application.Application1.executor": "Run",
+    "Application.com.ogiraffers.level02.normal.book.run.Application.executor": "Run",
     "Application.com.ogiraffers.section02.encapsulation.problem2.Application.executor": "Run",
     "Application.com.ogiraffers.section02.encapsulation.problem3.Application.executor": "Run",
     "Application.com.ogiraffers.section02.encapsulation.problem4.Application.executor": "Run",
@@ -57,7 +59,7 @@
       <recent name="com.ogiraffers.section05.parameter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Application.com.ogiraffers.section06.statickeyword.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ogiraffers.section04.constructor.Application" />
       <module name="chap06-class-and-object-lecture-source" />
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ogiraffers.section03.abstraction.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ogiraffers.section03.abstraction.Application" />
+    <configuration name="com.ogiraffers.level02.normal.book.run.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ogiraffers.level02.normal.book.run.Application" />
       <module name="chap06-class-and-object-lecture-source" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ogiraffers.section03.abstraction.*" />
+          <option name="PATTERN" value="com.ogiraffers.level02.normal.book.run.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application" />
         <item itemvalue="Application.com.ogiraffers.section06.statickeyword.Application" />
-        <item itemvalue="Application.com.ogiraffers.section05.parameter.Application" />
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.com.ogiraffers.section03.dto.Application" />
-        <item itemvalue="Application.com.ogiraffers.section03.abstraction.Application" />
+        <item itemvalue="Application.com.ogiraffers.level02.normal.book.run.Application" />
+        <item itemvalue="Application.com.ogiraffers.section05.parameter.Application" />
       </list>
     </recent_temporary>
   </component>

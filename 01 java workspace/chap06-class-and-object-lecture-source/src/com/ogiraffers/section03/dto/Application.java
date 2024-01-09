@@ -4,7 +4,7 @@ public class Application {
     public static void main(String[] args) {
         //데이터를 추상화하는 기법을 이해하고 이를 사용하여 프로그래밍 할 수 있다.
 
-        //캡슐화의 원칙에서 일부 어긋나기는 하지만 다른 목절을 가진 클래스와 객체를 추상화 하는 기법이 있다.
+        //캡슐화의 원칙에서 일부 어긋나기는 하지만 다른 목적을 가진 클래스와 객체를 추상화 하는 기법이 있다.
         //행위 위주가 아닌 데이터를 하나로 뭉치기 위한 객체 (Data Transfer Object)의 경우이다.
 
         MemberDTO member = new MemberDTO();
