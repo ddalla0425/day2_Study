@@ -59,4 +59,7 @@ public class BookDTO {
     public String printInformation() {
         return this.title + ", " + this.publisher + ", " + this.author + ", " + this.price + ", " + this.discountRate;
     }
+/*    public void printInformation(){
+        System.out.println(this.title + ", " + this.publisher + ", " + this.author + ", " + this.price + ", " + this.discountRate);
+    }*/
 }

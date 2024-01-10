@@ -31,54 +31,44 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Application.executor": "Run",
-    "Application.Application1.executor": "Run",
-    "Application.com.ogiraffers.level02.normal.book.run.Application.executor": "Run",
-    "Application.com.ogiraffers.section02.encapsulation.problem2.Application.executor": "Run",
-    "Application.com.ogiraffers.section02.encapsulation.problem3.Application.executor": "Run",
-    "Application.com.ogiraffers.section02.encapsulation.problem4.Application.executor": "Run",
-    "Application.com.ogiraffers.section03.abstraction.Application.executor": "Run",
-    "Application.com.ogiraffers.section03.dto.Application.executor": "Run",
-    "Application.com.ogiraffers.section05.parameter.Application.executor": "Run",
-    "Application.com.ogiraffers.section06.statickeyword.Application.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/lecture/01 java workspace/chap05-array-lecture-source",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ogiraffers.level02.normal.book.run.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ogiraffers.section02.encapsulation.problem2.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ogiraffers.section02.encapsulation.problem3.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ogiraffers.section02.encapsulation.problem4.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ogiraffers.section03.abstraction.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ogiraffers.section03.dto.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ogiraffers.section05.parameter.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ogiraffers.section06.statickeyword.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ogiraffers.section08.initblock.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ogiraffers.section09.objectaaray.Application.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/lecture/01 java workspace/chap05-array-lecture-source&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ogiraffers.section08.initblock" />
       <recent name="com.ogiraffers.section06.statickeyword" />
       <recent name="com.ogiraffers.section05.parameter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.ogiraffers.section06.statickeyword.Application">
+  <component name="RunManager" selected="Application.com.ogiraffers.section09.objectaaray.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ogiraffers.section04.constructor.Application" />
       <module name="chap06-class-and-object-lecture-source" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ogiraffers.section04.constructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.ogiraffers.level02.normal.book.run.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ogiraffers.level02.normal.book.run.Application" />
-      <module name="chap06-class-and-object-lecture-source" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ogiraffers.level02.normal.book.run.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,19 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ogiraffers.section05.parameter.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ogiraffers.section05.parameter.Application" />
-      <module name="chap06-class-and-object-lecture-source" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ogiraffers.section05.parameter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.ogiraffers.section06.statickeyword.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ogiraffers.section06.statickeyword.Application" />
       <module name="chap06-class-and-object-lecture-source" />
@@ -125,13 +102,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ogiraffers.section08.initblock.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ogiraffers.section08.initblock.Application" />
+      <module name="chap06-class-and-object-lecture-source" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ogiraffers.section08.initblock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ogiraffers.section09.objectaaray.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ogiraffers.section09.objectaaray.Application" />
+      <module name="chap06-class-and-object-lecture-source" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ogiraffers.section09.objectaaray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.ogiraffers.section09.objectaaray.Application" />
+        <item itemvalue="Application.com.ogiraffers.section08.initblock.Application" />
         <item itemvalue="Application.com.ogiraffers.section06.statickeyword.Application" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.com.ogiraffers.section03.dto.Application" />
-        <item itemvalue="Application.com.ogiraffers.level02.normal.book.run.Application" />
-        <item itemvalue="Application.com.ogiraffers.section05.parameter.Application" />
       </list>
     </recent_temporary>
   </component>
