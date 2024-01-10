@@ -62,7 +62,7 @@ public class Application {
         System.out.println("a1이 Rabbit 타입인지 확인 : " + (a1 instanceof Rabbit));
         System.out.println("a1이 Tiger 타입인지 확인 : " + (a1 instanceof Tiger));
         System.out.println("a2이 Rabbit 타입인지 확인 : " + (a2 instanceof Rabbit));
-        System.out.println("a2이 Rabbit 타입인지 확인 : " + (a2 instanceof Tiger));
+        System.out.println("a2이 Tiger 타입인지 확인 : " + (a2 instanceof Tiger));
 
         //상속 받은 타입도 함께 가지고 있다.
         System.out.println("a1이 Animal 타입인지 확인 : " + (a1 instanceof Animal));

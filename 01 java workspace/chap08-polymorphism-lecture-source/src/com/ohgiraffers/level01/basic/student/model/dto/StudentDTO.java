@@ -38,10 +38,6 @@ public class StudentDTO {
                 + ", 영어=" + eng
                 + ", 수학=" + math;
     }
-//    public () {
-//
-//    }
-
 
         //----getter 메소드
     public int getGrade() {

@@ -16,10 +16,11 @@ public class Application {
         StudentDTO[] student = new StudentDTO[10];
         Scanner sc = new Scanner(System.in);
 
-        int num = 0;
-        int count = 0;
-        while (true) {
+        int i = 0;
+        int avg = 0;
 
+        while (i < student.length) {
+            //System.out.println("시작" +i);
             System.out.print("학년 : ");
             int grad = sc.nextInt();
             System.out.print("반 : ");
@@ -33,19 +34,40 @@ public class Application {
             int eng = sc.nextInt();
             System.out.print("수학점수 : ");
             int math = sc.nextInt();
-            student[num] = new StudentDTO(grad, classroom, name, kor, eng, math);
+            student[i] = new StudentDTO(grad, classroom, name, kor, eng, math);
             System.out.print("계속 추가할 겁니까 ? (y/n) : ");
-
             char ch = sc.next().charAt(0);
-            if (ch == 'y' || ch == 'Y') {
 
-            }else {
-                continue;
+             avg = ((kor + eng + math)/3);
+
+            if(ch =='y' || ch == 'Y'){
+                i++;
+                //System.out.println("y입력 현재 횟수" + i);
             }
+             else {
+                    ++i;
+                    //i++;//System.out.println("n입력 현재 횟수" + i);
+                    break;
 
-            count++;
-            System.out.println(student[count].getInformation());
+            }
+            /*else if(ch =='n' || ch == 'N') {
+                    ++i;
+                    //i++;//System.out.println("n입력 현재 횟수" + i);
+                    break;
+
+            }
+            else {
+                if(i > 0) {
+                    i--;
+                    System.out.println("잘못 입력 하셨습니다. 다시 입력해주세요.");
+                    //System.out.println("잘못 입력 하셨습니다. 다시 입력해주세요 현재 횟수" + i);
+                }
+            }*/
         }
-        System.out.println("while 밖");
-    }
+
+        for(int j=0; j<i;j++){
+            System.out.println(student[j].getInformation() + ", 평균=" + avg);
+        }
+        //System.out.println("while 밖");
+    }//System.out.println(student[count].getInformation());
 }

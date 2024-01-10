@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d242191c-1c65-4f67-8c4c-2faaae806cf0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/looping/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section02/looping/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/looping/B_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section02/looping/B_while.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/looping/C_doWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section02/looping/C_doWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section03/branching/A_break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section03/branching/A_break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section03/branching/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section03/branching/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section03/branching/B_continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section03/branching/B_continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/chap04-control-flow-lecture-source/com/ohgiraffers/section02/looping/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/chap04-control-flow-lecture-source/com/ohgiraffers/section02/looping/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08-polymorphism-lecture-source/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-polymorphism-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08-polymorphism-lecture-source/src/com/ohgiraffers/level01/basic/student/model/dto/StudentDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-polymorphism-lecture-source/src/com/ohgiraffers/level01/basic/student/model/dto/StudentDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08-polymorphism-lecture-source/src/com/ohgiraffers/level01/basic/student/run/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-polymorphism-lecture-source/src/com/ohgiraffers/level01/basic/student/run/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08-polymorphism-lecture-source/src/com/ohgiraffers/section01/polymorphiwm/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-polymorphism-lecture-source/src/com/ohgiraffers/section01/polymorphiwm/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,6 @@
     "Application.com.ohgiraffers.section02.looping.Application.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/lecture/01 java workspace/chap05-array-lecture-source",
