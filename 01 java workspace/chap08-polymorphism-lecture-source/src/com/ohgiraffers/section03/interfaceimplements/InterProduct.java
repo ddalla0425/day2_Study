@@ -1,0 +1,44 @@
+package com.ohgiraffers.section03.interfaceimplements;
+
+public interface InterProduct {
+
+    //인터페이스는 상수 필드만 작성 가능하다.
+    //public static final 제어자 조합을 상수 필드라고 부른다.
+    //반드시 선언과 등시에 초기화 해주어야 한다.
+
+    public static final int MAX_NUM = 100;
+
+    //상수 필드만을 가질 수 있기 때문에 모든 필드는 묵시적으로 public static final 이다.
+    int MIN_NUM = 10; //상수 필드(public static final) 생략가능
+
+    //인터페이스는 생성자를 가질 수 없다.
+//    public InterProduct() {}
+
+    //인터페이스는 구현부가 있는 non-static 메소드를 갖리 수 없다.
+//    public void nonStaticMethod() {}
+
+    //추상 메소드만 작성이 가능하다.
+    public abstract void nonStaticMethod();
+
+    //인터페이스 내 메소드는 묵시적으로 public abstract의 의미를 가진다.
+    void abstMthod();
+
+    //static 메소드는 작성이 가능하다(JDK1.8 추가)
+    public  static void staticMethod() {
+        System.out.println("InterProduct 인터페이스의 staticMethod 호출...");
+    }
+    //default 키워드를 사용 하면 non-static 메소드로 작성 가능하다.
+    //default 메소드는 환성되어 있으므로 오버라이딩이 강제화 되지 않는다.
+    public default void defaultMethod() {
+        System.out.println("InterProduct 인터페이스의 defaultMethod 호출...");
+    }
+
+
+
+
+
+
+
+
+
+}
