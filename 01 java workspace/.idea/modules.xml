@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01 java workspace.iml" filepath="$PROJECT_DIR$/.idea/01 java workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04-control-flow-lecture-source/chap04-control-flow-lecture-source.iml" filepath="$PROJECT_DIR$/chap04-control-flow-lecture-source/chap04-control-flow-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap05-array-lecture-source/chap05-array-lecture-source.iml" filepath="$PROJECT_DIR$/chap05-array-lecture-source/chap05-array-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap06-class-and-object-lecture-source/chap06-class-and-object-lecture-source.iml" filepath="$PROJECT_DIR$/chap06-class-and-object-lecture-source/chap06-class-and-object-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap07-inheritance-lecture-source/chap07-inheritance-lecture-source.iml" filepath="$PROJECT_DIR$/chap07-inheritance-lecture-source/chap07-inheritance-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap08-polymorphism-lecture-source/chap08-polymorphism-lecture-source.iml" filepath="$PROJECT_DIR$/chap08-polymorphism-lecture-source/chap08-polymorphism-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study.iml" filepath="$PROJECT_DIR$/study/study.iml" />
+    </modules>
+  </component>
+</project>

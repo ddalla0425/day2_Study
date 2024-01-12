@@ -1,5 +1,7 @@
 package game;
 
+import java.util.Scanner;
+
 public class Game {
     //필드
 
@@ -8,15 +10,27 @@ public class Game {
     //메소드
         //--method
         public void gameStartPrint() {
+            System.out.println("게임을 시작 하시겠습니까? (y/n)");
+//            System.out.println("=============================");
+//            System.out.println("    게임을 시작 하시겠습니까?");
+//            System.out.println("-----------------------------");
+//            System.out.println("   게임 시작 Y │ 게임 종료 N");
+//            System.out.print("=============================");
+        }
+        public void gameCharacter() {
 
-            System.out.println("=============================");
-            System.out.println("    게임을 시작 하시겠습니까?");
-            System.out.println("-----------------------------");
-            System.out.println("   게임 시작 Y │ 게임 종료 N");
-            System.out.print("=============================");
         }
         public void gameExitPrint() {
+            Scanner sc = new Scanner(System.in);
             System.out.println("게임을 종료 하시겠습니까?");
+            String str1 = sc.nextLine();
+                if(str1.toLowerCase().equals("y") /*|| str1.toLowerCase().equals("n")*/ ) {
+                    System.exit(0);
+                } else if(str1.toLowerCase().equals("n")) {
+
+                }else {
+                    System.out.println("잘못 입력하셨습니다. 다시 입력해 주세요.");
+                }
         }
         public void gameInfoPrint() {
             System.out.println("=============================");
