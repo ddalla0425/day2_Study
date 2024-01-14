@@ -8,10 +8,8 @@ public class Study {
 
     //생성자 선언부
     public Study (int num, String name) {
-
         this.studentNum = num;
         this.studentName = name;
-
     }
     public Study (int num, String name, int age){
         this.studentNum = num;
