@@ -1,4 +1,4 @@
-package com.ohgiraffers.section00.hw;
+package game.total;
 
 import java.util.Random;
 

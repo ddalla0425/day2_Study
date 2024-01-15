@@ -7,7 +7,7 @@ public class River extends Place{
     @Override
     protected int search(int hp, double probability) {
         if (Math.random() < probability) {
-            int damage = super.fixRandomNum(90, 100); //데미지 90 - 100 랜덤
+            int damage = super.fixRandomNum(99, 100); //데미지 99 - 100 랜덤
             hp -= damage;
             System.out.println("      한강에서 좀비의 습격을 받았습니다!!!");
             System.out.println("        HP : " + damage + " 감소, 현재 HP는 " + Math.max(0, Math.min(hp, 100)) + "입니다.");
@@ -27,7 +27,7 @@ public class River extends Place{
     @Override
     protected int sleep(int hp, double probability) {
         if (Math.random() < probability) {
-            int damage = super.fixRandomNum(90, 100); //데미지 90 - 100 랜덤
+            int damage = super.fixRandomNum(99, 100); //데미지 99 - 100 랜덤
             hp -= damage;
             System.out.println("한강에서 휴식하는 중 좀비의 습격을 받았습니다!!!");
             System.out.println("     HP : " + damage + " 감소, 현재 HP는 " + Math.max(0, Math.min(hp, 100)) + "입니다.");

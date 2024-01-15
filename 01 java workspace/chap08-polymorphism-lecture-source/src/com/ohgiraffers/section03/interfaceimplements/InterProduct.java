@@ -1,5 +1,9 @@
 package com.ohgiraffers.section03.interfaceimplements;
-
+/* 인터페이스는 인터페이스를 상속할 수 있다. 이 때는 extends 라는 키워드를 사용한다.
+ * 클래스 extends 클래스 -> 단일 상속
+ * 클래스 implements 인터페이스1, 인터페이스2, ... -> 다중 상속
+ * 인터페이스 extends 인터페이스1, 인터페이스2, ... -> 다중 상속
+ * */
 public interface InterProduct {
 
     //인터페이스는 상수 필드만 작성 가능하다.

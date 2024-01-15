@@ -1,4 +1,4 @@
-package com.ohgiraffers.section00.hw;
+package game.total;
 
 import java.awt.*;
 import java.util.Scanner;
@@ -94,14 +94,6 @@ public class Application {
                 System.out.println("잘못 누르셨습니다. 다시 입력해주세요.");
             }
         }
-
-
-
-
-
-
-
-
 
 
     }
